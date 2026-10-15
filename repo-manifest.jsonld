@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/django-import-export/django-import-export/commit/6cdbaa3b49ed1017062476ddcb20d4e31cdda800",
       "git:hexsha": "6cdbaa3b49ed1017062476ddcb20d4e31cdda800",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/django-import-export/django-import-export/commit/642dc35e57a6b2ec50c482cf3d871106a63b085a",
