@@ -1,0 +1,11 @@
+{
+  "org": "django-import-export",
+  "repo": "django-import-export",
+  "versions": [
+    {
+      "commit": "6cdbaa3b49ed1017062476ddcb20d4e31cdda800",
+      "tag": "",
+      "parsed_at": "2026-10-15T09:00:23.680711+00:00"
+    }
+  ]
+}
